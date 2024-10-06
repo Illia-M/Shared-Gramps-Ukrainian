@@ -5,6 +5,7 @@
   <header>
     <created date="2024-10-06" version="5.2.3"/>
     <researcher>
+      <reslocality>https://github.com/Illia-M/Shared-Gramps-Ukrainian/</reslocality>
       <rescountry>Ukraine</rescountry>
     </researcher>
   </header>
@@ -5432,6 +5433,326 @@
       <rname>Wikipedia</rname>
       <type>Web site</type>
       <url  href="https://uk.wikipedia.org/" type="Web Home"/>
+    </repository>
+    <repository handle="_fb7d9ee2f145d37790e06e8fe59" change="1728234845" id="SGUAR000002">
+      <rname>Галузевий державний архів Міністерства внутрішніх справ України (ГДА МВС)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7d9fb59bb5e74511eeb40e2b6" change="1728234307" id="SGUAR000003">
+      <rname>FamilySearch</rname>
+      <type>Web site</type>
+      <address>
+        <country>США</country>
+      </address>
+      <url  href="https://www.familysearch.org/" type="Web Home"/>
+    </repository>
+    <repository handle="_fb7da237f161cdb763bd1e43020" change="1728234841" id="SGUAR000004">
+      <rname>Галузевий державний архів Служби безпеки України (ГДА СБУ)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da24fb55247bd3cf0d0414f0" change="1728234837" id="SGUAR000005">
+      <rname>Галузевий державний архів Служби зовнішньої розвідки України (ГДА СЗРУ)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da2b5bd5203adafd73ed1f4d" change="1728234832" id="SGUAR000006">
+      <rname>Державний архів в Автономній Республіці Крим (ДААРК)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da37aec64a1c6781732f4a6d" change="1728234828" id="SGUAR000007">
+      <rname>Державний архів Вінницької області (ДАВіО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da3acef26ec5fe193860d702" change="1728234825" id="SGUAR000008">
+      <rname>Державний архів Волинської області (ДАВоО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da4c9aa21b440e27cee8a6a2" change="1728234617" id="SGUAR000009">
+      <rname>Державний архів Дніпропетровської області (ДАДнО)</rname>
+      <type>Archive</type>
+      <address>
+        <city>Дніпро</city>
+        <state>Дніпропетровська область</state>
+        <country>Україна</country>
+      </address>
+      <url  href="https://dp.archives.gov.ua/" type="Web Home"/>
+    </repository>
+    <repository handle="_fb7da4eb7071124d85549464ac2" change="1728234821" id="SGUAR000010">
+      <rname>Державний архів Донецької області (ДАДоО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da509a325f43ebee0319be53" change="1728234642" id="SGUAR000011">
+      <rname>Державний архів Житомирської області (ДАЖО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="https://zhytomyr.archives.gov.ua/" type="Web Home"/>
+    </repository>
+    <repository handle="_fb7da53c94975acd6aa315fae79" change="1728234854" id="SGUAR000012">
+      <rname>Державний архів Закарпатської області (ДАЗкО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da5602fa3ea20a7deb0ce49b" change="1728234858" id="SGUAR000013">
+      <rname>Державний архів Запорізької області (ДАЗпО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da583abc5864e6dc29be978e" change="1728234862" id="SGUAR000014">
+      <rname>Державний архів Івано-Франківської області (ДАІФО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da654cb06ed09e0d1c356f5e" change="1728234866" id="SGUAR000015">
+      <rname>Державний архів Київської області (ДАКО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da6872ce398e59a3875c727c" change="1728234403" id="SGUAR000016">
+      <rname>Державний архів Кіровоградської області (ДАКрО / ДАКірО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="http://archium.krop.archives.gov.ua/" type="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7da73f97816de529ac6973289" change="1728234869" id="SGUAR000017">
+      <rname>Державний архів Луганської області (ДАЛуО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da76024918928784edfebce7" change="1728234874" id="SGUAR000018">
+      <rname>Державний архів Львівської області (ДАЛО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="https://e.archivelviv.gov.ua/" type="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7da7bc84a5f1ff3ab7c8d9c96" change="1728234878" id="SGUAR000019">
+      <rname>Державний архів Миколаївської області (ДАМО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da7d9fa17bb95aac97a35887" change="1728234882" id="SGUAR000020">
+      <rname>Державний архів міста Києва (ДАК)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da7fc722570441d4ee7ae905" change="1728234885" id="SGUAR000021">
+      <rname>Державний архів міста Севастополя (ДАС)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da8519e2399aa2d81d581bd1" change="1728234889" id="SGUAR000022">
+      <rname>Державний архів Одеської області (ДАОО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da8a6070c7d9fa68bc6cea5" change="1728234894" id="SGUAR000023">
+      <rname>Державний архів Полтавської області (ДАПО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="http://185.250.20.252/" type="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7da8d2c5326fce242bd85d544" change="1728234897" id="SGUAR000024">
+      <rname>Державний архів Рівненської області (ДАРО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da8f742f1ab6a45e9b6272ec" change="1728234901" id="SGUAR000025">
+      <rname>Державний архів Сумської області (ДАСО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da91bd59743f4f40f09412d2" change="1728234355" id="SGUAR000026">
+      <rname>Державний архів Тернопільської області (ДАТО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7da941cbb5e23e9dd3c02e468" change="1728234550" id="SGUAR000027">
+      <rname>Державний архів Харківської області (ДАХО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="http://archives.kh.gov.ua/" type="Web Home"/>
+    </repository>
+    <repository handle="_fb7da96e06b5ac32c38453a3f3c" change="1728234340" id="SGUAR000028">
+      <rname>Державний архів Херсонської області (ДАХеО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7daa59108146c4aa1f7ccf4ea" change="1728234514" id="SGUAR000029">
+      <rname>Державний архів Хмельницької області (ДАХмО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="http://dahmo.myasustor.com/" type="Unknown" description="Оцифровані справи архіву"/>
+    </repository>
+    <repository handle="_fb7daa7e21f60154fa7b936b10a" change="1728234248" id="SGUAR000030">
+      <rname>Державний архів Черкаської області (ДАЧкО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7daab4df74f27d2d667dc8a17" change="1728234576" id="SGUAR000031">
+      <rname>Державний архів Чернівецької області (ДАЧвО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="https://cv.archives.gov.ua/" type="Web Home"/>
+    </repository>
+    <repository handle="_fb7dab2288622d913dba52f6948" change="1728234328" id="SGUAR000032">
+      <rname>Державний архів Чернігівської області (ДАЧгО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="http://91.225.196.68/" type="Unknown" description="Оцифровані справи"/>
+    </repository>
+    <repository handle="_fb7dab4bad454f8d319de6f3d74" change="1728234198" id="SGUAR000033">
+      <rname>Центральний державний архів вищих органів влади та управління України (ЦДАВО)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="https://e-resource.tsdavo.gov.ua/" type="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7dab7be5a7d02ca3f5baa0f9a" change="1728234323" id="SGUAR000034">
+      <rname>Центральний державний архів громадських об'єднань та україніки (ЦДАГО / ЦДАГОУ)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="https://e.tsdahou.archives.gov.ua/" type="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7dabb886a4d1b40fe76eb16a2" change="1728234230" id="SGUAR000035">
+      <rname>Центральний державний архів зарубіжної україніки (ЦДАЗУ)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7dabe498e68cc2e8a8a1c0f89" change="1728234319" id="SGUAR000036">
+      <rname>Центральний державний архів-музей літератури і мистецтва України (ЦДАМЛМ)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="https://ksi-csamm.archives.gov.ua/" type="Web Home" description="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7dacf824b5fac41282bf579fb" change="1728234314" id="SGUAR000037">
+      <rname>Центральний державний електронний архів України (ЦДЕА)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7dad1e1881b616e4d8a237089" change="1728234459" id="SGUAR000038">
+      <rname>Центральний державний історичний архів України м. Київ (ЦДІАК)</rname>
+      <type>Archive</type>
+      <address>
+        <city>Київ</city>
+        <country>Україна</country>
+      </address>
+      <url  href="https://archium.cdiak.archives.gov.ua/" type="ARCHIUM"/>
+      <url  href="https://cdiak.archives.gov.ua/" type="Web Home"/>
+    </repository>
+    <repository handle="_fb7dad3f212139a5043fa691fa5" change="1728234281" id="SGUAR000039">
+      <rname>Центральний державний історичний архів України м. Львів (ЦДІАЛ)</rname>
+      <type>Archive</type>
+      <address>
+        <city>Львів</city>
+        <state>Львівська область</state>
+        <country>Україна</country>
+      </address>
+      <url  href="https://archium.tsdial.archives.gov.ua/" type="Web Home" description="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7dae871207c41ed5bbb3c684" change="1728234297" id="SGUAR000040">
+      <rname>Центральний державний кінофотофоноархів України ім. Г. С. Пшеничного (ЦДКФФА)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7daea9dbb2d6b10654ac0a879" change="1728234293" id="SGUAR000041">
+      <rname>Центральний державний науково-технічний архів України (ЦДНТА)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+    </repository>
+    <repository handle="_fb7daf72af066ce18188062fb0e" change="1728234428" id="SGUAR000042">
+      <rname>Цифровий архів Західноукраїнської Народної Республіки (ЦАЗУНР)</rname>
+      <type>Archive</type>
+      <address>
+        <country>Україна</country>
+      </address>
+      <url  href="https://zunr.arinsy.com/" type="ARCHIUM"/>
+    </repository>
+    <repository handle="_fb7db1f953445018ba7be3c6ed6" change="1728232971" id="SGUAR000043">
+      <rname>Вікіджерела</rname>
+      <type>Web site</type>
+      <url  href="https://uk.wikisource.org/" type="Web Home" description="Головна"/>
+      <url  href="https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%90%D1%80%D1%85%D1%96%D0%B2%D0%B8" type="Web Search" description="Архіви"/>
+    </repository>
+    <repository handle="_fb7db5bae7b14d814d2a7130e07" change="1728233365" id="SGUAR000044">
+      <rname>«Меморіал Голокосту «Бабин Яр»</rname>
+      <type>Web site</type>
+      <url  href="https://babynyar.org/ua" type="Web Home"/>
     </repository>
   </repositories>
   <notes>
